@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'DSDAAACookBook',
 
   /**
    * @type {boolean} true | false
